@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Alex.  
+I enjoy creating things others would enjoy.
+
 <!--
 **alevosia/alevosia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
