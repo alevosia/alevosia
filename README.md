@@ -2,9 +2,9 @@
 
 I'm Alex. I enjoy creating things others would enjoy.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alevosia&show_icons=true&count_private=true&include_all_commits=true&theme=radical) 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alevosia&show_icons=true&count_private=true&include_all_commits=true&theme=default) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alevosia&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alevosia&layout=compact&theme=default)
 
 <!--
 **alevosia/alevosia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
